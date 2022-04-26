@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\MarkAngeloGalitBSCOE1-5FirstProgram\MarkAngeloGalitBSCOE1-5FirstProgram\bin\Debug\net6.0-windows\MarkAngeloGalitBSCOE1-5FirstProgram.exe
+C:\Users\admin\source\repos\MarkAngeloGalitBSCOE1-5FirstProgram\MarkAngeloGalitBSCOE1-5FirstProgram\bin\Debug\net6.0-windows\MarkAngeloGalitBSCOE1-5FirstProgram.deps.json
+C:\Users\admin\source\repos\MarkAngeloGalitBSCOE1-5FirstProgram\MarkAngeloGalitBSCOE1-5FirstProgram\bin\Debug\net6.0-windows\MarkAngeloGalitBSCOE1-5FirstProgram.runtimeconfig.json
+C:\Users\admin\source\repos\MarkAngeloGalitBSCOE1-5FirstProgram\MarkAngeloGalitBSCOE1-5FirstProgram\bin\Debug\net6.0-windows\MarkAngeloGalitBSCOE1-5FirstProgram.dll
+C:\Users\admin\source\repos\MarkAngeloGalitBSCOE1-5FirstProgram\MarkAngeloGalitBSCOE1-5FirstProgram\bin\Debug\net6.0-windows\MarkAngeloGalitBSCOE1-5FirstProgram.pdb
+C:\Users\admin\source\repos\MarkAngeloGalitBSCOE1-5FirstProgram\MarkAngeloGalitBSCOE1-5FirstProgram\obj\Debug\net6.0-windows\MarkAngeloGalitBSCOE1-5FirstProgram.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MarkAngeloGalitBSCOE1-5FirstProgram\MarkAngeloGalitBSCOE1-5FirstProgram\obj\Debug\net6.0-windows\MarkAngeloGalitBSCOE1_5FirstProgram.Form1.resources
+C:\Users\admin\source\repos\MarkAngeloGalitBSCOE1-5FirstProgram\MarkAngeloGalitBSCOE1-5FirstProgram\obj\Debug\net6.0-windows\MarkAngeloGalitBSCOE1-5FirstProgram.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\MarkAngeloGalitBSCOE1-5FirstProgram\MarkAngeloGalitBSCOE1-5FirstProgram\obj\Debug\net6.0-windows\MarkAngeloGalitBSCOE1-5FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\MarkAngeloGalitBSCOE1-5FirstProgram\MarkAngeloGalitBSCOE1-5FirstProgram\obj\Debug\net6.0-windows\MarkAngeloGalitBSCOE1-5FirstProgram.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\MarkAngeloGalitBSCOE1-5FirstProgram\MarkAngeloGalitBSCOE1-5FirstProgram\obj\Debug\net6.0-windows\MarkAngeloGalitBSCOE1-5FirstProgram.AssemblyInfo.cs
+C:\Users\admin\source\repos\MarkAngeloGalitBSCOE1-5FirstProgram\MarkAngeloGalitBSCOE1-5FirstProgram\obj\Debug\net6.0-windows\MarkAngeloGalitBSCOE1-5FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MarkAngeloGalitBSCOE1-5FirstProgram\MarkAngeloGalitBSCOE1-5FirstProgram\obj\Debug\net6.0-windows\MarkAngeloGalitBSCOE1-5FirstProgram.dll
+C:\Users\admin\source\repos\MarkAngeloGalitBSCOE1-5FirstProgram\MarkAngeloGalitBSCOE1-5FirstProgram\obj\Debug\net6.0-windows\refint\MarkAngeloGalitBSCOE1-5FirstProgram.dll
+C:\Users\admin\source\repos\MarkAngeloGalitBSCOE1-5FirstProgram\MarkAngeloGalitBSCOE1-5FirstProgram\obj\Debug\net6.0-windows\MarkAngeloGalitBSCOE1-5FirstProgram.pdb
+C:\Users\admin\source\repos\MarkAngeloGalitBSCOE1-5FirstProgram\MarkAngeloGalitBSCOE1-5FirstProgram\obj\Debug\net6.0-windows\MarkAngeloGalitBSCOE1-5FirstProgram.genruntimeconfig.cache
+C:\Users\admin\source\repos\MarkAngeloGalitBSCOE1-5FirstProgram\MarkAngeloGalitBSCOE1-5FirstProgram\obj\Debug\net6.0-windows\ref\MarkAngeloGalitBSCOE1-5FirstProgram.dll
